@@ -5,3 +5,6 @@
 
     INSTAGRAM SCRAPPER
         https://github.com/rarcega/instagram-scraper
+        
+    WORKING IN COLAB
+        https://colab.research.google.com/drive/1fIa5KGmWIxPICZQX3sg0IR1YtIRgkE02#scrollTo=eL3Gda3q54oY
